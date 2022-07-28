@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+   <g>
+      <path
+         id="path6128"
+         style="fill:#808080;stroke:#808080;stroke-width:0.369604;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 16.671875 7.6484375 A 28.790024 28.790024 0 0 0 3.2109375 32 A 28.790024 28.790024 0 0 0 32 60.789062 A 28.790024 28.790024 0 0 0 60.789062 32 A 28.790024 28.790024 0 0 0 47.335938 7.6523438 L 43.287109 14.080078 A 21.179202 21.179202 0 0 1 53.179688 32 A 21.179202 21.179202 0 0 1 32 53.179688 A 21.179202 21.179202 0 0 1 10.820312 32 A 21.179202 21.179202 0 0 1 20.724609 14.087891 L 16.671875 7.6484375 z "
+         transform="scale(0.26458333)" />
+      <rect
+         style="fill:#808080;stroke:#808080;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect6874"
+         width="2.2533376"
+         height="5.9829187"
+         x="7.3399978"
+         y="0.25647032"
+         rx="0.3051143"
+         ry="0.3051143" />
+   </g>
+</svg>
