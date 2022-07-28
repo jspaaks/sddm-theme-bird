@@ -1,6 +1,5 @@
 # Minimal theme for SDDM login manager
 
-## Preview
 ![preview.png](preview.png)
 
 ## Features
